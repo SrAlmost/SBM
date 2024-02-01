@@ -1,0 +1,7 @@
+TABLA 1
+Nombre del Thread: Thled1; Estado del mismo: osThreadReady; Prioridad: osPriorityNormal
+Nombre del Thread: Thled2; Estado del mismo: osThreadReady; Prioridad: osPriorityNormal
+Nombre del Thread: Thled3; Estado del mismo: osThreadReady; Prioridad: osPriorityNormal
+
+TABLA 2
+Nombre del Thread: Thled1; Estado del mismo: osThreadReady; Prioridad: osPriorityNormal
